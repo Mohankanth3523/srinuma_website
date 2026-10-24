@@ -1,0 +1,1 @@
+SRINUMA wedding invitation. Open index.html through a static HTTP server, or deploy the folder on Vercel. The first ten seconds of the supplied track were removed in the bundled MP3. Mobile browsers start playback on Open Invitation tap. RSVP and wishes currently persist per browser; cross-device shared data requires a database.
