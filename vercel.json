@@ -2,6 +2,13 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "framework": "vite",
+  "redirects": [
+    {
+      "source": "/manikanda_prabu_harishma",
+      "destination": "/manikanda_prabu_harishma/",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
